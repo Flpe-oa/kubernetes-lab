@@ -1,0 +1,12 @@
+# Binários baixados manualmente
+kubectl
+kubectl.sha256
+get_helm.sh
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Nunca suba segredos reais
+*.key
+*.pem
